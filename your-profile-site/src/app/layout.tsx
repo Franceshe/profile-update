@@ -8,9 +8,6 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata: Metadata = {
   title: 'Frances He - Personal Profile',
   description: 'Personal profile of Frances He, Founder/CEO at Yolominds.Inc',
-  icons: {
-    icon: 'data:,'
-  }
 }
 
 export default function RootLayout({
@@ -20,6 +17,11 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <link rel="icon" href="/src/app/favicon.ico" sizes="any" />
+        <title>{metadata.title}</title>
+        <meta name="description" content={metadata.description} />
+      </head>
       <body className={inter.className}>
         {children}
         <Analytics />
