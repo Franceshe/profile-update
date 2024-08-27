@@ -1,3 +1,4 @@
+<link rel="shortcut icon" href="#"></link>
 import Image from "next/image";
 import Link from "next/link";
 
