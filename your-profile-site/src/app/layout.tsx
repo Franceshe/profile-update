@@ -8,6 +8,9 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata: Metadata = {
   title: 'Frances He - Personal Profile',
   description: 'Personal profile of Frances He, Founder/CEO at Yolominds.Inc',
+  icons: {
+    icon: 'data:,'
+  }
 }
 
 export default function RootLayout({
