@@ -15,26 +15,26 @@ export default function Home() {
       </div>
       <h1 className="text-4xl font-bold mb-4">Frances He</h1>
       <p className="mb-4">
-        I am Founder/CEO at Yolominds.Inc, where I'm fortunate to work on building Seacows AMM, the world's first decentralized automated liquidity protocol for NFT. We provide guaranteed liquidity based on AI evaluated price, with a special focus on gamefi markets.
+        I am Founder/CEO at Yolominds.Inc, where I&apos;m fortunate to work on building Seacows AMM, the world&apos;s first decentralized automated liquidity protocol for NFT. We provide guaranteed liquidity based on AI evaluated price, with a special focus on gamefi markets.
       </p>
       <p className="mb-4">
-        With our team, I help set a broader vision for Yolominds and work to choose aligned research and development directions. At Yolominds, I've done anything needed to ship results like Seacows AMM and to grow the team: starting new research areas, promoting and coaching managers, technical work for fundraising, starting the recruiting team, rolling out our first product, etc.
+        With our team, I help set a broader vision for Yolominds and work to choose aligned research and development directions. At Yolominds, I&apos;ve done anything needed to ship results like Seacows AMM and to grow the team: starting new research areas, promoting and coaching managers, technical work for fundraising, starting the recruiting team, rolling out our first product, etc.
       </p>
       <p className="mb-8">
-        My main focus is on the intersection of AI, blockchain, and decentralized finance, but most of my career has revolved around innovative applications of technology to solve complex problems. I'm interested in how the dynamics of AI and blockchain development can shape outcomes for people, and I try to spend as much time as possible with ethics, safety, and policy considerations.
+        My main focus is on the intersection of AI, blockchain, and decentralized finance, but most of my career has revolved around innovative applications of technology to solve complex problems. I&apos;m interested in how the dynamics of AI and blockchain development can shape outcomes for people, and I try to spend as much time as possible with ethics, safety, and policy considerations.
       </p>
       <h2 className="text-2xl font-bold mb-4">About Seacows NFT AMM Protocol</h2>
       <p className="mb-4">
-        At <Link href="https://twitter.com/seacowsNFT" className="text-blue-600 hover:underline">@seacowsNFT</Link>, we are building Seacows NFT AMM protocol, which is "Uniswap for NFT". It is the world's first effective peer-to-pool NFT AMM Protocol, which solves liquidity fragmentation by leveraging a constant product market maker (CPMM) price discovery mechanism. This mechanism has been modified to enable "integer NFT liquidity add/withdraw".
+        At <Link href="https://twitter.com/seacowsNFT" className="text-blue-600 hover:underline">@seacowsNFT</Link>, we are building Seacows NFT AMM protocol, which is &quot;Uniswap for NFT&quot;. It is the world&apos;s first effective peer-to-pool NFT AMM Protocol, which solves liquidity fragmentation by leveraging a constant product market maker (CPMM) price discovery mechanism. This mechanism has been modified to enable &quot;integer NFT liquidity add/withdraw&quot;.
       </p>
       <p className="mb-8">
         Visit our website: <Link href="https://seacows.trade" className="text-blue-600 hover:underline">seacows.trade</Link>
       </p>
-      <h2 className="text-2xl font-bold mb-4">Some great Challenges I'd love to help solve</h2>
+      <h2 className="text-2xl font-bold mb-4">Some great Challenges I&apos;d love to help solve</h2>
       <p className="mb-4">
-        <Link href="https://www.engineeringchallenges.org/challenges.aspx" className="text-blue-600 hover:underline">14 Grand Challenges</Link> for Engineering in the 21st Century identified by National Academy of Engineering, which to some extent represent the "biggest pains" that we are facing in the 21st century.
+        <Link href="https://www.engineeringchallenges.org/challenges.aspx" className="text-blue-600 hover:underline">14 Grand Challenges</Link> for Engineering in the 21st Century identified by National Academy of Engineering, which to some extent represent the &quot;biggest pains&quot; that we are facing in the 21st century.
       </p>
-      <h2 className="text-2xl font-bold mb-4">Some ideas I'm looking to see built or build myself:</h2>
+      <h2 className="text-2xl font-bold mb-4">Some ideas I&apos;m looking to see built or build myself:</h2>
       <ul className="list-disc pl-5 mb-8">
         <li>Software to decrease asymmetric information</li>
         <li>Knowledge engine</li>
@@ -55,7 +55,7 @@ export default function Home() {
       </ul>
       <h2 className="text-2xl font-bold mb-4">Education</h2>
       <ul className="list-disc pl-5 mb-8">
-        <li>University of Illinois at Urbana-Champaign - Bachelor's Degree, Physics & Minor Computer Science (2013 - 2018)</li>
+        <li>University of Illinois at Urbana-Champaign - Bachelor&apos;s Degree, Physics & Minor Computer Science (2013 - 2018)</li>
         <li>Chengdu Foreign Languages School (2007 - 2013)</li>
       </ul>
       <h2 className="text-2xl font-bold mb-4">Skills</h2>
